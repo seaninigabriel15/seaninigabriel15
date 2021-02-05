@@ -12,17 +12,15 @@ Im based here in Manila, Philippines
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=f29111)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=f29111)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
 
-
-</////
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-////>
+##### Continue Learning
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat&logo=angular)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
+![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
+![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=ffffff)
 
 
 # :camera: Multimedia
@@ -44,7 +42,7 @@ Im based here in Manila, Philippines
 
 <p align="center">
  <a href="https://www.facebook.com/seaninigabriel"><img src="https://img.shields.io/badge/-SeanGabriel-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sean-gabriel"><img src="https://img.shields.io/badge/-Sean%20Gabriel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:joannaseangabriel@gmail.com"><img src="https://img.shields.io/badge/-joannaseangabriel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/seaninigabriel/"><img src="https://img.shields.io/badge/-@seaninigabriel-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.instagram.com/seaninigabriel/"><img src="https://img.shields.io/badge/-@seaninigabriel-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+ <a href="https://linkedin.com/in/sean-gabriel"><img src="https://img.shields.io/badge/-Sean%20Gabriel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+ <a href="mailto:joannaseangabriel@gmail.com"><img src="https://img.shields.io/badge/-joannaseangabriel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
