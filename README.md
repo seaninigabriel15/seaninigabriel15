@@ -1,11 +1,9 @@
 # Hi Im Seanini Gabriel <:camera: :computer:/>
 
- _Software Developer Trainee_	
+ _Software Developer Trainee,Manila, Philippines_	
  
  _Freelance Photographer and Videographer_
  
-Im based here in Manila, Philippines
-
 # :computer: Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&logoColor=232531)
