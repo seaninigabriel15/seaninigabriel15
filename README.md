@@ -7,13 +7,17 @@
 # :computer: Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&logoColor=232531)
+
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=f29111)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
 
-##### Continue Learning
+### 🚧 On Process ... 🚧 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat&logo=angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
