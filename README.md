@@ -2,16 +2,18 @@
 
  _Software Developer Trainee_	
  
+ _Freelance Photographer and Videographer_
+ 
 Im based here in Manila, Philippines
 
 # :computer: Tech Stack
-
-![Java](http://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=ffffff)
-![PHP](http://img.shields.io/badge/-PHP-007396?style=flat-square&logo=PHP&logoColor=232531)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![MySQL](http://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=f29111)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&logoColor=232531)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=f29111)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 
 </////
@@ -25,7 +27,24 @@ Im based here in Manila, Philippines
 
 # :camera: Multimedia
 
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=flat-square&logo=adobe-lightroom)
+![Adobe Premiere](http://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat-square&logo=adobe-premiere-pro)
 
-![Adobe Photoshop](http://img.shields.io/badge/-Adode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-336791?style=flat-square&logo=adobe-lightroom)
-![Adobe Premiere](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-DB76FA?style=flat-square&logo=adobe-premiere-pro&logoColor=523A5C)
+# ⚙️ GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=seaninigabriel15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seaninigabriel15&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Lets Connect Amigo!
+
+<p align="center">
+ <a href="https://www.facebook.com/seaninigabriel"><img src="https://img.shields.io/badge/-SeanGabriel-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sean-gabriel"><img src="https://img.shields.io/badge/-Sean%20Gabriel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:joannaseangabriel@gmail.com"><img src="https://img.shields.io/badge/-joannaseangabriel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/seaninigabriel/"><img src="https://img.shields.io/badge/-@seaninigabriel-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
