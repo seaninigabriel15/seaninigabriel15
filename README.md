@@ -41,6 +41,7 @@
 <p align="center">
  <a href="https://www.facebook.com/seaninigabriel"><img src="https://img.shields.io/badge/-SeanGabriel-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
  <a href="https://www.instagram.com/seaninigabriel/"><img src="https://img.shields.io/badge/-@seaninigabriel-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.twitter.com/ursatisfacSEAN"><img src="https://img.shields.io/badge/-ursatisfacSEAN-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
  <a href="https://linkedin.com/in/sean-gabriel-89703112a/"><img src="https://img.shields.io/badge/-Sean%20Gabriel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
  <a href="mailto:joannaseangabriel@gmail.com"><img src="https://img.shields.io/badge/-joannaseangabriel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
