@@ -6,7 +6,7 @@
  
 # :computer: Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&logoColor=232531)
+![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=232531)
 
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
