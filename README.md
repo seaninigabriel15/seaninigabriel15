@@ -4,6 +4,8 @@
  
  _Freelance Photographer and Videographer_
  
+ _Knowledgeable in Basic Graphic Arts(PS & AI)_
+ 
 # :computer: Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=232531)
