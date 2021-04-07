@@ -32,6 +32,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=flat-square&logo=adobe-lightroom)
 ![Adobe Premiere](http://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat-square&logo=adobe-premiere-pro)
+![Adobe Illustrator](http://img.shields.io/badge/-Illustrator%20Pro-05122A?style=flat-square&logo=adobe-illustrator)
 
 # ⚙️ GitHub Analytics
 
