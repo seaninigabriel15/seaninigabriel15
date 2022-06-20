@@ -9,7 +9,7 @@
 # :computer: Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=232531)
-
+![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat&logo=angular)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
