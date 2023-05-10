@@ -1,6 +1,6 @@
 # Hi Im Seanini Gabriel <:camera: :computer:/>
 
- _Junior Software Developer ,Manila, Philippines_	
+ _Analyst Programmer ,Manila, Philippines_	
  
  _Freelance Photographer and Videographer_
  
