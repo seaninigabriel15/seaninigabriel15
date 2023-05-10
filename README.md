@@ -1,4 +1,4 @@
-# Hi Im Seanini Gabriel <:camera: :computer:/>
+# Hi Im Sean Brown <:camera: :computer:/>
 
  _Analyst Programmer ,Manila, Philippines_	
  
